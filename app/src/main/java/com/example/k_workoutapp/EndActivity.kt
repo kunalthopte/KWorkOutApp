@@ -4,6 +4,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.k_workoutapp.databinding.ActivityEndBinding
 
+/**
+ * @author Kunal
+ */
 class EndActivity : AppCompatActivity() {
 
     private var binding : ActivityEndBinding?= null
